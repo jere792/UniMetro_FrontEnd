@@ -64,7 +64,7 @@ Este sistema fue diseñado y desarrollado íntegramente por un equipo de estudia
 *   **[Jeremy]** - *Full Stack Developer / Arquitectura Frontend*
 *   **[Dominid, Juan Diego]** - *Backend Developer*
 *   **[Erick]** - *Database Admin / QA*
-*   **[Angie, Angie]** - *Frontend Developer*
+*   **[Angie, Enzi]** - *Frontend Developer*
 *   **[Angie, Enzi]** - *UI/UX & Documentation*
 *   **[Dominid]** - *DevOps / Deployment*
 
